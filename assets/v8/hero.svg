@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080D1A"/><stop offset="1" stop-color="#121A31"/></linearGradient>
+  <linearGradient id="rail" x1="0" x2="1"><stop stop-color="#6EE7FF"/><stop offset=".55" stop-color="#A89BFF"/><stop offset="1" stop-color="#F5D58A"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#6EE7FF" stop-opacity=".38"/><stop offset="1" stop-color="#6EE7FF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8FA5C7" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1280" height="390" rx="18" fill="url(#bg)" stroke="#334366"/>
+<rect width="1280" height="390" rx="18" fill="url(#grid)"/>
+<circle cx="1040" cy="65" r="170" fill="url(#glow)"/>
+<path d="M0 322 C250 255 440 362 665 297 S1060 240 1280 300" fill="none" stroke="url(#rail)" stroke-width="3" opacity=".8"/>
+<path d="M0 336 C260 270 455 380 675 311 S1060 260 1280 314" fill="none" stroke="#7D8DB0" stroke-width="1" opacity=".35"/>
+<g fill="#EAF2FF"><circle cx="150" cy="320" r="5"/><circle cx="405" cy="324" r="5"/><circle cx="666" cy="297" r="5"/><circle cx="952" cy="265" r="5"/><circle cx="1162" cy="276" r="5"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="58" y="54" fill="#6EE7FF" font-size="18" font-weight="700" letter-spacing="3">ASTRAL ARCHIVE // ONLINE</text>
+  <text x="58" y="134" fill="#F6F8FF" font-size="68" font-weight="800" letter-spacing="2">BEANSARDRE</text>
+  <text x="62" y="174" fill="#AFC0DA" font-size="20">FULL-STACK DEVELOPER  •  GAME SYSTEMS  •  AI  •  3D</text>
+  <rect x="58" y="208" width="560" height="82" rx="12" fill="#0D1426" stroke="#334366"/>
+  <text x="80" y="236" fill="#F5D58A" font-size="14" font-weight="700" letter-spacing="2">CURRENT EXPEDITION</text>
+  <text x="80" y="267" fill="#EAF2FF" font-size="28" font-weight="700">PROJECTVERSE 3D</text>
+  <text x="80" y="289" fill="#94A3BC" font-size="14">codebase → architecture snapshot → 2D / 3D visualizer</text>
+
+  <rect x="826" y="60" width="386" height="188" rx="14" fill="#0D1426" stroke="#3A4C70"/>
+  <text x="852" y="92" fill="#A89BFF" font-size="15" font-weight="700" letter-spacing="2">TRAILBLAZER DATA</text>
+  <text x="852" y="128" fill="#94A3BC" font-size="13">CLASS</text><text x="970" y="128" fill="#EAF2FF" font-size="14" font-weight="700">Full-Stack Developer</text>
+  <text x="852" y="158" fill="#94A3BC" font-size="13">REGION</text><text x="970" y="158" fill="#EAF2FF" font-size="14" font-weight="700">Philippines</text>
+  <text x="852" y="188" fill="#94A3BC" font-size="13">PLAYSTYLE</text><text x="970" y="188" fill="#EAF2FF" font-size="14" font-weight="700">systems / games / visuals</text>
+  <text x="852" y="218" fill="#94A3BC" font-size="13">STATUS</text><text x="970" y="218" fill="#74E7B2" font-size="14" font-weight="700">ACTIVE</text>
+
+  <text x="58" y="358" fill="#7F90AF" font-size="12" letter-spacing="2">ROUTE: BUILD → BREAK → DEBUG → RESPAWN</text>
+</g>
+<g fill="#F5D58A"><circle cx="1217" cy="32" r="2"/><circle cx="1190" cy="52" r="1.5"/><circle cx="1242" cy="88" r="1.7"/></g>
+</svg>
