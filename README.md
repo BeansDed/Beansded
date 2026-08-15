@@ -1,62 +1,55 @@
 <p align="center">
-  <img src="./assets/v4/hero.svg" alt="BeansArdre phantom profile hero" width="100%" />
+  <img src="./assets/v6/hero.svg" alt="BeansArdre profile hero" width="100%" />
 </p>
 
 <p align="center">
-  <b>CODENAME:</b> BEANSARDRE &nbsp; // &nbsp;
-  <b>CLASS:</b> FULL-STACK DEV &nbsp; // &nbsp;
-  <b>BASE:</b> PHILIPPINES &nbsp; // &nbsp;
-  <b>STATUS:</b> ACTIVE
+  <b>Ardre</b> · IT student · full-stack developer · Philippines
 </p>
 
 <p align="center">
-  <i>I build things, overcomplicate them, break them, then somehow make them cooler.</i>
+  I like backend-heavy apps, weird visual ideas, AI experiments, and projects that accidentally become systems.
 </p>
 
-<p align="center">
-  <img src="./assets/v4/personality-flags.svg" alt="BeansArdre personality flags" width="100%" />
-</p>
+---
 
-<p align="center">
-  <img src="./assets/v4/dossier.svg" alt="BeansArdre dossier" width="100%" />
-</p>
+## 01 / CURRENT TARGET
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-## CURRENT HEIST // PROJECTVERSE 3D
+### ProjectVerse 3D
+
+Turning JavaScript / TypeScript projects into visual architecture maps.
 
 ```text
 SOURCE CODE
-   ↓
+    ↓
 SCANNER
-   ↓
+    ↓
 ARCHITECTURE SNAPSHOT
-   ↓
+    ↓
 POSTGRESQL
-   ↓
+    ↓
 2D / 3D VISUALIZER
 ```
-
-Turning JavaScript / TypeScript projects into visual architecture maps.
 
 `Next.js` `PostgreSQL` `Supabase` `Three.js`
 
 > private while I finish cleaning it up.
 
 </td>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-## CURRENT BUILD MODE
+### Build mode
 
 ```text
 [✓] real database
-[✓] actual backend logic
-[✓] architecture worth diagramming
-[✓] weird visual layer
-[✓] probably too many moving parts
-[ ] done
+[✓] backend logic
+[✓] architecture worth showing
+[✓] visual layer
+[✓] too many moving parts
+[ ] finished
 ```
 
 **Mood:** shipping → breaking → fixing → shipping
@@ -69,128 +62,98 @@ Turning JavaScript / TypeScript projects into visual architecture maps.
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/v4/section-targets.svg" alt="Most wanted project targets" width="100%" />
-</p>
+---
+
+## 02 / SELECTED WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 01 // [COMPANY IDENTITY RESOLUTION](https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine)
+### [Company Identity Resolution](https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine)
 
-**BACKEND / MATCHING ENGINE**
+**Backend / matching engine**
 
-Messy company records go in. Blocking, weighted matching, confidence scoring, and golden-record merging happen. Cleaner identities come out.
+Matches messy company records using blocking, weighted matching, confidence scoring, and golden-record merging.
 
 `TypeScript` `Docker` `Redis` `Prometheus`
 
-> I like this one because the problem is ugly in a very real-world way.
+<sub>I like this one because the problem is ugly in a very real-world way.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-## 02 // [LUMINA_SORT](https://github.com/BeansDed/LUMINA_SORT)
+### [LUMINA_SORT](https://github.com/BeansDed/LUMINA_SORT)
 
-**IMAGE PROCESSING / GLITCH ENGINE**
+**Image processing / glitch engine**
 
-Deterministic pixel sorting with actual image data. No generative image model. Just algorithms doing cursed things to pixels.
+Deterministic pixel sorting with real image data. No generative image model — just algorithms doing cursed things to pixels.
 
 `Python` `Django` `NumPy` `PostgreSQL`
 
-> probably the most visually weird thing I've built.
+<sub>Probably the most visually weird thing I've built.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-## 03 // [SKILLFORGE](https://github.com/BeansDed/SkillForge)
+### [SkillForge](https://github.com/BeansDed/SkillForge)
 
-**FULL-STACK PRODUCT**
+**Full-stack product**
 
 Gamified learning with progression, auth, server actions, persistent state, and a real database behind it.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
-> game mechanics make normal CRUD way less boring.
+<sub>Game mechanics make normal CRUD way less boring.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-## 04 // [TITANALPHA](https://github.com/BeansDed/TitanAlpha)
+### [TitanAlpha](https://github.com/BeansDed/TitanAlpha)
 
-**DISTRIBUTED SYSTEMS EXPERIMENT**
+**Distributed systems experiment**
 
 Event-driven market-intelligence work around ingestion, signal processing, and distributed services.
 
 `Go` `Rust` `Temporal` `Redpanda` `ClickHouse`
 
-> yes, this is more infrastructure than a normal student project needs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 05 // [PORTFOLIO](https://github.com/BeansDed/Porfortlio)
-
-**PERSONAL SITE / CASE STUDIES**
-
-The polished home for the projects that survive my experiments.
-
-`Next.js` `TypeScript` `GitHub Pages`
-
-> eventually I need to fix that repo typo. I know.
-
-</td>
-<td width="50%" valign="top">
-
-## 06 // [IRMINSUL / HOYOVERSE LORE](https://github.com/BeansDed/Hoyoverse-Lore)
-
-**AI / RETRIEVAL EXPERIMENT**
-
-A lore-search system for asking questions across a giant connected game universe without reading hundreds of separate wiki pages.
-
-`TypeScript` `AI / retrieval experiments`
-
-> giant knowledge spaces are messy. that's the fun part.
+<sub>Yes, this is more infrastructure than a normal student project needs.</sub>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/v4/section-stats.svg" alt="Phantom status live data" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BeansDed&show_icons=true&hide_border=true&bg_color=080808&title_color=ed0014&icon_color=ed0014&text_color=ffffff&ring_color=ed0014&include_all_commits=true" alt="BeansDed GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeansDed&layout=compact&hide_border=true&bg_color=080808&title_color=ed0014&text_color=ffffff&langs_count=8" alt="BeansDed top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BeansDed&hide_border=true&background=080808&ring=ED0014&fire=ED0014&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=ED0014" alt="BeansDed GitHub streak" />
-</p>
-
 <details>
-<summary><b>OPEN STATUS REPORT // click me</b></summary>
+<summary><b>More experiments</b></summary>
 
-```text
-PUBLIC GITHUB
-├─ experiments
-├─ school projects
-├─ full-stack systems
-├─ backend-heavy stuff
-├─ things I made because I was bored
-└─ projects that got way bigger than the original idea
-```
+<br/>
+
+**[Portfolio](https://github.com/BeansDed/Porfortlio)** — the polished home for the projects that survive my experiments.  
+`Next.js` `TypeScript` `GitHub Pages`
+
+**[Irminsul / Hoyoverse Lore](https://github.com/BeansDed/Hoyoverse-Lore)** — lore search across a giant connected game universe.  
+`TypeScript` `AI / retrieval experiments`
 
 </details>
 
 ---
 
-# ARSENAL // LOADOUT
+## 03 / LIVE DATA
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeansDed&show_icons=true&hide_border=true&bg_color=0b0b0d&title_color=e60012&icon_color=e60012&text_color=eeeeee&ring_color=e60012&include_all_commits=true" alt="BeansDed GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeansDed&layout=compact&hide_border=true&bg_color=0b0b0d&title_color=e60012&text_color=eeeeee&langs_count=8" alt="BeansDed top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BeansDed&hide_border=true&background=0B0B0D&ring=E60012&fire=E60012&currStreakLabel=EEEEEE&sideLabels=EEEEEE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=222222" alt="BeansDed GitHub streak" />
+</p>
+
+---
+
+## 04 / LOADOUT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,postgres,nextjs,react,nodejs,django,supabase,docker,git,github,threejs,go,rust,figma&theme=dark&perline=8" alt="Tech stack icons" />
@@ -200,7 +163,7 @@ PUBLIC GITHUB
 <tr>
 <td width="33%" valign="top">
 
-### PRIMARY
+**Daily**  
 `TypeScript`  
 `JavaScript`  
 `Python`  
@@ -209,7 +172,7 @@ PUBLIC GITHUB
 </td>
 <td width="34%" valign="top">
 
-### WEB / BACKEND
+**Web / backend**  
 `Next.js`  
 `React`  
 `Node.js`  
@@ -219,7 +182,7 @@ PUBLIC GITHUB
 </td>
 <td width="33%" valign="top">
 
-### CHAOS TOOLS
+**Chaos tools**  
 `Docker`  
 `Three.js`  
 `Go`  
@@ -232,22 +195,22 @@ PUBLIC GITHUB
 
 ---
 
-# RULES OF ENGAGEMENT
+## 05 / HOW I BUILD
 
 ```text
-[01] make it work before making it dramatic
-[02] real databases > fake demo data
-[03] don't commit secrets. ever.
-[04] if the system is complicated, draw the architecture
-[05] if I claim performance, measure it
-[06] clean code > fake complexity
-[07] boring UX is a redesign request
-[08] "what if I add 3D?" is a dangerous thought
+01  make it work before making it dramatic
+02  real databases > fake demo data
+03  don't commit secrets
+04  show architecture when it matters
+05  measure performance before claiming performance
+06  clean code > fake complexity
+07  boring UX is a redesign request
+08  "what if I add 3D?" is a dangerous thought
 ```
 
 ---
 
-# LIVE FEED
+## 06 / LIVE FEED
 
 ```text
 beans@phantomos:~$ whoami
