@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
+  <rect width="520" height="220" rx="14" fill="#0B1016" stroke="#263241"/>
+  <rect x="18" y="18" width="5" height="34" rx="2" fill="#A371F7"/>
+  <text x="36" y="42" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#DBE7F0">COMPANY IDENTITY</text>
+  <text x="36" y="68" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6E7681">backend // matching engine</text>
+  <text x="36" y="105" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#DBE7F0">Blocking, weighted matching, confidence scoring,</text>
+  <text x="36" y="126" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#DBE7F0">and golden-record generation for messy data.</text>
+  <text x="36" y="160" font-family="monospace" font-size="13" fill="#A371F7">TypeScript  •  Docker  •  Redis  •  Prometheus</text>
+  <text x="36" y="196" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8B949E">SOURCE</text>
+  <text x="91" y="196" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#58C7F3">PUBLIC</text>
+  <text x="372" y="196" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8B949E">STATUS</text>
+  <text x="430" y="196" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#7EE787">FINISHED</text>
+</svg>
