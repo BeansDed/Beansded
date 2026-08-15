@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180">
-  <rect width="520" height="180" rx="14" fill="#0B1016" stroke="#263241"/>
-  <rect x="18" y="18" width="5" height="34" rx="2" fill="#58C7F3"/>
-  <text x="36" y="42" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#DBE7F0">PLAYER STATS</text>
-  <text x="36" y="70" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6E7681">BeansDed // public GitHub snapshot</text>
+  <rect width="520" height="180" rx="14" fill="#0B1120" stroke="#334366"/>
+  <path d="M0 0H166L142 26H0Z" fill="#15233E"/>
+  <rect x="18" y="18" width="5" height="34" rx="2" fill="#6EE7FF"/>
+  <text x="36" y="42" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#EAF2FF">ASTRAL SNAPSHOT</text>
+  <text x="36" y="70" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#7F90AF">BeansDed // public GitHub archive</text>
   <g font-family="Arial,Helvetica,sans-serif">
-    <text x="36" y="112" font-size="30" font-weight="700" fill="#58C7F3">15</text><text x="82" y="111" font-size="13" fill="#8B949E">public repos</text>
-    <text x="190" y="112" font-size="30" font-weight="700" fill="#A371F7">1</text><text x="215" y="111" font-size="13" fill="#8B949E">total star</text>
-    <text x="333" y="112" font-size="30" font-weight="700" fill="#F2CC60">1</text><text x="358" y="111" font-size="13" fill="#8B949E">follower</text>
-    <text x="36" y="150" font-size="13" fill="#8B949E">ACCOUNT CREATED</text><text x="168" y="150" font-size="13" font-weight="700" fill="#DBE7F0">NOV 2022</text>
-    <text x="305" y="150" font-size="13" fill="#8B949E">STATUS</text><text x="365" y="150" font-size="13" font-weight="700" fill="#7EE787">ACTIVE</text>
+    <text x="36" y="112" font-size="30" font-weight="700" fill="#6EE7FF">15</text><text x="82" y="111" font-size="13" fill="#94A3BC">public repos</text>
+    <text x="190" y="112" font-size="30" font-weight="700" fill="#A89BFF">1</text><text x="215" y="111" font-size="13" fill="#94A3BC">total star</text>
+    <text x="333" y="112" font-size="30" font-weight="700" fill="#F5D58A">1</text><text x="358" y="111" font-size="13" fill="#94A3BC">follower</text>
+    <text x="36" y="150" font-size="13" fill="#94A3BC">ACCOUNT CREATED</text><text x="168" y="150" font-size="13" font-weight="700" fill="#EAF2FF">NOV 2022</text>
+    <text x="305" y="150" font-size="13" fill="#94A3BC">STATUS</text><text x="365" y="150" font-size="13" font-weight="700" fill="#74E7B2">ACTIVE</text>
   </g>
 </svg>
