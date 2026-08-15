@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/v4/personality-flags.svg" alt="BeansArdre personality flags" width="100%" />
+</p>
+
+<p align="center">
   <img src="./assets/v4/dossier.svg" alt="BeansArdre dossier" width="100%" />
 </p>
 
