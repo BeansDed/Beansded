@@ -1,36 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440">
   <defs>
-    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
-      <circle cx="3" cy="3" r="2" fill="#ffffff" opacity="0.14"/>
-    </pattern>
-    <filter id="rough">
-      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="1" seed="9" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.2"/>
-    </filter>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#fff" opacity=".15"/></pattern>
+    <pattern id="stripes" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="11" height="26" fill="#fff" opacity=".08"/></pattern>
+    <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="1" seed="13" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="1.4"/></filter>
   </defs>
+  <rect width="1280" height="440" fill="#080808"/>
+  <polygon points="0,0 862,0 708,440 0,440" fill="#e60012"/>
+  <polygon points="782,0 1280,0 1280,112 708,190" fill="#fff"/>
+  <polygon points="828,440 1280,440 1280,122 752,244" fill="#111"/>
+  <rect width="1280" height="440" fill="url(#dots)"/>
+  <rect width="1280" height="440" fill="url(#stripes)"/>
 
-  <rect width="1200" height="360" fill="#090909"/>
-  <polygon points="0,0 760,0 620,360 0,360" fill="#e60012"/>
-  <polygon points="560,0 1200,0 1200,112 515,170" fill="#ffffff"/>
-  <polygon points="710,360 1200,360 1200,138 650,228" fill="#111111"/>
-  <rect width="1200" height="360" fill="url(#dots)"/>
+  <polygon points="34,36 402,12 374,62 8,88" fill="#000"/>
+  <text x="52" y="59" font-family="Impact,Arial Black,sans-serif" font-size="34" fill="#fff" transform="rotate(-3 52 59)">PHANTOM FILE // ACTIVE</text>
 
-  <polygon points="44,44 420,18 390,64 18,88" fill="#000"/>
-  <text x="58" y="63" font-family="Impact, Arial Black, sans-serif" font-size="34" fill="#fff" transform="rotate(-3 58 63)">CALLING CARD // 001</text>
+  <polygon points="64,100 770,74 742,205 38,222" fill="#000" opacity=".96"/>
+  <text x="72" y="178" font-family="Impact,Arial Black,sans-serif" font-size="118" letter-spacing="2" fill="#fff" stroke="#000" stroke-width="8" paint-order="stroke" filter="url(#rough)">BEANSARDRE</text>
+  <text x="78" y="218" font-family="Arial Black,Arial,sans-serif" font-size="24" fill="#000">FULL-STACK / SYSTEMS / AI / 3D</text>
 
-  <text x="62" y="178" font-family="Impact, Arial Black, sans-serif" font-size="112" fill="#fff" stroke="#000" stroke-width="9" paint-order="stroke" filter="url(#rough)">BEANSARDRE</text>
-  <text x="74" y="236" font-family="Arial Black, Arial, sans-serif" font-size="29" fill="#000">FULL-STACK // SYSTEMS // AI // 3D</text>
-
-  <g transform="rotate(-4 0 0)">
-    <rect x="716" y="87" width="386" height="58" fill="#e60012" stroke="#000" stroke-width="8"/>
-    <text x="744" y="127" font-family="Impact, Arial Black, sans-serif" font-size="34" fill="#fff">NO BORING SOFTWARE.</text>
+  <g transform="rotate(-5 930 104)">
+    <rect x="812" y="63" width="386" height="60" fill="#e60012" stroke="#000" stroke-width="8"/>
+    <text x="842" y="105" font-family="Impact,Arial Black,sans-serif" font-size="35" fill="#fff">NO BORING SOFTWARE.</text>
   </g>
 
-  <polygon points="706,210 1150,174 1128,244 680,278" fill="#fff"/>
-  <text x="724" y="235" font-family="Arial Black, Arial, sans-serif" font-size="23" fill="#000" transform="rotate(-4 724 235)">BUILD IT. BREAK IT. MAKE IT BETTER.</text>
+  <polygon points="806,155 1232,132 1204,214 775,239" fill="#fff" stroke="#000" stroke-width="7"/>
+  <text x="825" y="190" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#000" transform="rotate(-3 825 190)">STEAL BAD UX. LEAVE BETTER SYSTEMS.</text>
 
-  <rect x="70" y="286" width="470" height="42" fill="#000"/>
-  <text x="90" y="315" font-family="Arial Black, Arial, sans-serif" font-size="22" fill="#fff">STATUS: STILL SHIPPING.</text>
+  <g>
+    <polygon points="62,258 580,242 548,306 30,322" fill="#fff"/>
+    <text x="78" y="288" font-family="Arial Black,Arial,sans-serif" font-size="20" fill="#000" transform="rotate(-2 78 288)">CURRENT TARGET // PROJECTVERSE 3D</text>
+    <text x="78" y="313" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#000">codebase → architecture map → 3D view</text>
+  </g>
 
-  <path d="M0 332 L285 302 L430 342 L690 304 L920 338 L1200 304 L1200 360 L0 360 Z" fill="#000"/>
+  <g>
+    <rect x="674" y="270" width="492" height="70" fill="#000" stroke="#fff" stroke-width="3"/>
+    <text x="696" y="296" font-family="Arial Black,Arial,sans-serif" font-size="16" fill="#e60012">LOADOUT</text>
+    <text x="696" y="323" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#fff">TypeScript • Python • PostgreSQL • Next.js • Three.js</text>
+  </g>
+
+  <g>
+    <rect x="75" y="352" width="370" height="42" fill="#000"/>
+    <text x="94" y="380" font-family="Arial Black,Arial,sans-serif" font-size="20" fill="#fff">STATUS // STILL SHIPPING</text>
+    <circle cx="424" cy="373" r="7" fill="#e60012"><animate attributeName="opacity" values="1;.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(800 356) rotate(-3)">
+    <polygon points="0,0 392,0 370,48 16,48" fill="#e60012"/>
+    <text x="26" y="32" font-family="Impact,Arial Black,sans-serif" font-size="25" fill="#fff">TAKE YOUR CODE BACK.</text>
+  </g>
+
+  <path d="M0 403 L245 376 L406 424 L634 386 L898 424 L1280 380 L1280 440 L0 440 Z" fill="#000"/>
 </svg>
