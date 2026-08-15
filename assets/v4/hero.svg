@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520">
+<defs>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.7" fill="#fff" opacity=".15"/></pattern>
+  <pattern id="slashes" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="9" height="34" fill="#fff" opacity=".055"/></pattern>
+  <filter id="jitter"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="1" seed="21" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="1.3"/></filter>
+</defs>
+<rect width="1400" height="520" fill="#070707"/>
+<polygon points="0,0 965,0 790,520 0,520" fill="#ed0014"/>
+<polygon points="885,0 1400,0 1400,142 820,215" fill="#fff"/>
+<polygon points="940,520 1400,520 1400,160 850,270" fill="#111"/>
+<rect width="1400" height="520" fill="url(#dots)"/>
+<rect width="1400" height="520" fill="url(#slashes)"/>
+
+<!-- fake torn paper -->
+<polygon points="24,40 470,13 438,71 5,99" fill="#000"/>
+<text x="45" y="68" font-family="Impact,Arial Black,sans-serif" font-size="38" fill="#fff" transform="rotate(-3 45 68)">PHANTOMOS // USER PROFILE</text>
+
+<!-- main name slab -->
+<polygon points="58,116 860,82 824,242 24,263" fill="#050505"/>
+<text x="72" y="208" font-family="Impact,Arial Black,sans-serif" font-size="130" fill="#fff" stroke="#000" stroke-width="7" paint-order="stroke" filter="url(#jitter)">BEANSARDRE</text>
+<text x="82" y="252" font-family="Arial Black,Arial,sans-serif" font-size="27" fill="#000">FULL-STACK DEV // SYSTEMS // AI // 3D</text>
+
+<!-- right side stickers -->
+<g transform="rotate(-5 1080 105)">
+  <rect x="906" y="66" width="405" height="66" fill="#ed0014" stroke="#000" stroke-width="9"/>
+  <text x="942" y="111" font-family="Impact,Arial Black,sans-serif" font-size="38" fill="#fff">NO BORING SOFTWARE.</text>
+</g>
+<polygon points="920,165 1348,135 1316,228 886,254" fill="#fff" stroke="#000" stroke-width="8"/>
+<text x="937" y="204" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#000" transform="rotate(-4 937 204)">I KEEP ADDING SYSTEMS UNTIL IT GETS INTERESTING.</text>
+
+<!-- current mission -->
+<polygon points="58,304 665,279 628,372 24,399" fill="#fff"/>
+<text x="79" y="330" font-family="Arial Black,Arial,sans-serif" font-size="18" fill="#ed0014">CURRENT HEIST</text>
+<text x="79" y="361" font-family="Impact,Arial Black,sans-serif" font-size="31" fill="#000">PROJECTVERSE 3D</text>
+<text x="79" y="386" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#000">source code → architecture snapshot → 2D/3D visualizer</text>
+
+<!-- command box -->
+<rect x="748" y="292" width="575" height="98" fill="#050505" stroke="#fff" stroke-width="3"/>
+<text x="772" y="320" font-family="monospace" font-size="16" fill="#ed0014">beans@phantomos:~$ ./status</text>
+<text x="772" y="348" font-family="monospace" font-size="18" fill="#fff">shipping → breaking → fixing → shipping</text>
+<text x="772" y="376" font-family="monospace" font-size="16" fill="#bfbfbf">mode: overengineering_on_purpose</text>
+<rect x="1284" y="359" width="11" height="18" fill="#ed0014"><animate attributeName="opacity" values="1;.15;1" dur=".8s" repeatCount="indefinite"/></rect>
+
+<!-- menu -->
+<g transform="translate(80 431)">
+  <polygon points="0,0 206,0 190,48 16,48" fill="#fff"/><text x="42" y="32" font-family="Impact,Arial Black,sans-serif" font-size="23" fill="#000">01 PROFILE</text>
+  <polygon points="195,0 424,0 405,48 211,48" fill="#000" stroke="#fff" stroke-width="2"/><text x="238" y="32" font-family="Impact,Arial Black,sans-serif" font-size="23" fill="#fff">02 TARGETS</text>
+  <polygon points="414,0 636,0 620,48 428,48" fill="#000" stroke="#fff" stroke-width="2"/><text x="458" y="32" font-family="Impact,Arial Black,sans-serif" font-size="23" fill="#fff">03 STATS</text>
+  <polygon points="626,0 874,0 856,48 640,48" fill="#000" stroke="#fff" stroke-width="2"/><text x="676" y="32" font-family="Impact,Arial Black,sans-serif" font-size="23" fill="#fff">04 LOADOUT</text>
+  <polygon points="864,0 1102,0 1085,48 878,48" fill="#ed0014"/><text x="921" y="32" font-family="Impact,Arial Black,sans-serif" font-size="23" fill="#fff">05 LOG</text>
+</g>
+<path d="M0 493 L275 462 L480 510 L710 470 L1015 512 L1400 463 L1400 520 L0 520 Z" fill="#000"/>
+</svg>
