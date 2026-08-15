@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="250" viewBox="0 0 1080 250">
+<rect width="1080" height="250" rx="16" fill="#0B1120" stroke="#334366"/>
+<path d="M0 0H250L216 34H0Z" fill="#15233E"/><path d="M900 250h180v-48l-142 18z" fill="#17213A"/>
+<rect x="24" y="24" width="5" height="34" rx="2" fill="#6EE7FF"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="42" y="49" fill="#EAF2FF" font-size="22" font-weight="700">RELIC LOADOUT</text>
+<text x="42" y="76" fill="#7F90AF" font-size="13">tools I actually use across finished builds and current experiments</text>
+
+<rect x="42" y="104" width="300" height="112" rx="12" fill="#10182B" stroke="#2D3D5D"/>
+<text x="62" y="132" fill="#F5D58A" font-size="14" font-weight="700" letter-spacing="1">CORE</text>
+<text x="62" y="160" fill="#EAF2FF" font-size="14">TypeScript  •  JavaScript</text>
+<text x="62" y="184" fill="#EAF2FF" font-size="14">Python  •  PostgreSQL  •  C#</text>
+
+<rect x="390" y="104" width="300" height="112" rx="12" fill="#10182B" stroke="#2D3D5D"/>
+<text x="410" y="132" fill="#A89BFF" font-size="14" font-weight="700" letter-spacing="1">WEB / BACKEND</text>
+<text x="410" y="160" fill="#EAF2FF" font-size="14">Next.js  •  React  •  Node.js</text>
+<text x="410" y="184" fill="#EAF2FF" font-size="14">Django  •  Supabase  •  Docker</text>
+
+<rect x="738" y="104" width="300" height="112" rx="12" fill="#10182B" stroke="#2D3D5D"/>
+<text x="758" y="132" fill="#74E7B2" font-size="14" font-weight="700" letter-spacing="1">GAME / VISUAL</text>
+<text x="758" y="160" fill="#EAF2FF" font-size="14">Unity  •  Three.js  •  Game AI</text>
+<text x="758" y="184" fill="#EAF2FF" font-size="14">3D systems  •  GitHub Actions</text>
+</g>
+</svg>
