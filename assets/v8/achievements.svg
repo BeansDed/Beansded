@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="270" viewBox="0 0 1080 270">
+<rect width="1080" height="270" rx="16" fill="#0B1120" stroke="#334366"/>
+<path d="M0 0H230L196 34H0Z" fill="#15233E"/><rect x="24" y="24" width="5" height="34" rx="2" fill="#A89BFF"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="42" y="49" fill="#EAF2FF" font-size="22" font-weight="700">MILESTONES</text>
+<text x="42" y="76" fill="#7F90AF" font-size="13">completed systems and projects worth keeping in the archive</text>
+<g font-size="14">
+<circle cx="58" cy="116" r="6" fill="#74E7B2"/><text x="78" y="121" fill="#EAF2FF">Shipped a cross-platform image-analysis and verification platform</text>
+<circle cx="58" cy="149" r="6" fill="#74E7B2"/><text x="78" y="154" fill="#EAF2FF">Built a 3D horror roguelite with AI enemies and directional audio</text>
+<circle cx="58" cy="182" r="6" fill="#74E7B2"/><text x="78" y="187" fill="#EAF2FF">Finished RPG combat, progression, and inventory systems</text>
+<circle cx="590" cy="116" r="6" fill="#F5D58A"/><text x="610" y="121" fill="#EAF2FF">Built deterministic glitch-art image processing from real pixel data</text>
+<circle cx="590" cy="149" r="6" fill="#F5D58A"/><text x="610" y="154" fill="#EAF2FF">Built a company identity-resolution engine for messy records</text>
+<circle cx="590" cy="182" r="6" fill="#F5D58A"/><text x="610" y="187" fill="#EAF2FF">Automated Reddit → narration → captions → vertical video output</text>
+</g>
+<rect x="42" y="220" width="996" height="28" rx="8" fill="#10182B"/>
+<text x="58" y="239" fill="#6EE7FF" font-size="13">ACTIVE MILESTONE</text><text x="190" y="239" fill="#EAF2FF" font-size="13" font-weight="700">ProjectVerse 3D // software architecture visualizer</text>
+</g>
+</svg>
