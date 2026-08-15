@@ -1,62 +1,58 @@
 <p align="center">
-  <img src="./assets/v6/hero.svg" alt="BeansArdre profile hero" width="100%" />
+  <img src="./assets/v7/hero.svg" alt="BeansArdre game-style profile hero" width="100%" />
 </p>
 
 <p align="center">
-  <b>Ardre</b> · IT student · full-stack developer · Philippines
+  <b>PLAYER:</b> Ardre &nbsp; • &nbsp;
+  <b>CLASS:</b> Full-Stack Developer &nbsp; • &nbsp;
+  <b>REGION:</b> Philippines
 </p>
 
 <p align="center">
-  I like backend-heavy apps, weird visual ideas, AI experiments, and projects that accidentally become systems.
+  I like backend-heavy apps, weird visual ideas, AI experiments, and projects that somehow grow into full systems.
 </p>
 
 ---
 
-## 01 / CURRENT TARGET
+## 🎯 ACTIVE QUEST — ProjectVerse 3D
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### ProjectVerse 3D
-
-Turning JavaScript / TypeScript projects into visual architecture maps.
+**Objective:** turn JavaScript / TypeScript codebases into visual architecture maps.
 
 ```text
 SOURCE CODE
-    ↓
+   ↓
 SCANNER
-    ↓
+   ↓
 ARCHITECTURE SNAPSHOT
-    ↓
+   ↓
 POSTGRESQL
-    ↓
+   ↓
 2D / 3D VISUALIZER
 ```
 
 `Next.js` `PostgreSQL` `Supabase` `Three.js`
 
-> private while I finish cleaning it up.
+> Current state: private while I finish cleaning it up.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### Build mode
+### Quest checklist
 
 ```text
 [✓] real database
 [✓] backend logic
 [✓] architecture worth showing
-[✓] visual layer
-[✓] too many moving parts
+[✓] 2D / 3D visual layer
+[✓] probably too many moving parts
 [ ] finished
 ```
 
-**Mood:** shipping → breaking → fixing → shipping
-
-**Weakness:** simple ideas somehow become systems.
-
-**Strength:** same thing.
+**Build loop:** ship → break → fix → ship
 
 </td>
 </tr>
@@ -64,7 +60,7 @@ POSTGRESQL
 
 ---
 
-## 02 / SELECTED WORK
+## 🕹️ PROJECT SELECT
 
 <table>
 <tr>
@@ -78,7 +74,7 @@ Matches messy company records using blocking, weighted matching, confidence scor
 
 `TypeScript` `Docker` `Redis` `Prometheus`
 
-<sub>I like this one because the problem is ugly in a very real-world way.</sub>
+<sub>Real-world ugly data problems are more interesting than another CRUD demo.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +83,7 @@ Matches messy company records using blocking, weighted matching, confidence scor
 
 **Image processing / glitch engine**
 
-Deterministic pixel sorting with real image data. No generative image model — just algorithms doing cursed things to pixels.
+Deterministic pixel sorting with actual image data. No generative image model — just algorithms doing strange things to pixels.
 
 `Python` `Django` `NumPy` `PostgreSQL`
 
@@ -106,7 +102,7 @@ Gamified learning with progression, auth, server actions, persistent state, and 
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
-<sub>Game mechanics make normal CRUD way less boring.</sub>
+<sub>Game mechanics make normal product logic way more fun.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -119,18 +115,18 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 
 `Go` `Rust` `Temporal` `Redpanda` `ClickHouse`
 
-<sub>Yes, this is more infrastructure than a normal student project needs.</sub>
+<sub>This one escalated way past the original idea.</sub>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More experiments</b></summary>
+<summary><b>🎒 Open side quests</b></summary>
 
 <br/>
 
-**[Portfolio](https://github.com/BeansDed/Porfortlio)** — the polished home for the projects that survive my experiments.  
+**[Portfolio](https://github.com/BeansDed/Porfortlio)** — project case studies and the polished side of my work.  
 `Next.js` `TypeScript` `GitHub Pages`
 
 **[Irminsul / Hoyoverse Lore](https://github.com/BeansDed/Hoyoverse-Lore)** — lore search across a giant connected game universe.  
@@ -140,20 +136,20 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 
 ---
 
-## 03 / LIVE DATA
+## 📊 PLAYER STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeansDed&show_icons=true&hide_border=true&bg_color=0b0b0d&title_color=e60012&icon_color=e60012&text_color=eeeeee&ring_color=e60012&include_all_commits=true" alt="BeansDed GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeansDed&layout=compact&hide_border=true&bg_color=0b0b0d&title_color=e60012&text_color=eeeeee&langs_count=8" alt="BeansDed top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeansDed&show_icons=true&hide_border=true&bg_color=0B1016&title_color=58C7F3&icon_color=A371F7&text_color=DBE7F0&ring_color=58C7F3&include_all_commits=true" alt="BeansDed GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeansDed&layout=compact&hide_border=true&bg_color=0B1016&title_color=A371F7&text_color=DBE7F0&langs_count=8" alt="BeansDed top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BeansDed&hide_border=true&background=0B0B0D&ring=E60012&fire=E60012&currStreakLabel=EEEEEE&sideLabels=EEEEEE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=222222" alt="BeansDed GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=BeansDed&hide_border=true&background=0B1016&ring=58C7F3&fire=F2CC60&currStreakLabel=DBE7F0&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=263241" alt="BeansDed GitHub streak" />
 </p>
 
 ---
 
-## 04 / LOADOUT
+## 🧰 INVENTORY / LOADOUT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,postgres,nextjs,react,nodejs,django,supabase,docker,git,github,threejs,go,rust,figma&theme=dark&perline=8" alt="Tech stack icons" />
@@ -163,7 +159,7 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 <tr>
 <td width="33%" valign="top">
 
-**Daily**  
+### Core
 `TypeScript`  
 `JavaScript`  
 `Python`  
@@ -172,7 +168,7 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 </td>
 <td width="34%" valign="top">
 
-**Web / backend**  
+### Web / backend
 `Next.js`  
 `React`  
 `Node.js`  
@@ -182,7 +178,7 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 </td>
 <td width="33%" valign="top">
 
-**Chaos tools**  
+### Experimental
 `Docker`  
 `Three.js`  
 `Go`  
@@ -195,38 +191,26 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 
 ---
 
-## 05 / HOW I BUILD
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-```text
-01  make it work before making it dramatic
-02  real databases > fake demo data
-03  don't commit secrets
-04  show architecture when it matters
-05  measure performance before claiming performance
-06  clean code > fake complexity
-07  boring UX is a redesign request
-08  "what if I add 3D?" is a dangerous thought
-```
+- built a deterministic image-processing engine instead of wrapping an AI image API
+- built a company identity-matching system around messy real-world-style data
+- built gamified product logic with persistent progression
+- experimented with distributed systems because apparently one service was not enough
+- learned that **“what if I add 3D?”** is a dangerous question
 
 ---
 
-## 06 / LIVE FEED
+## 💾 DEV SAVE FILE
 
 ```text
-beans@phantomos:~$ whoami
-Ardre // IT student // full-stack dev
-
-beans@phantomos:~$ current_target
-ProjectVerse 3D
-
-beans@phantomos:~$ interests
-systems / AI / automation / 3D / building stuff for no reason
-
-beans@phantomos:~$ status
-[ ACTIVE ] probably refactoring something that already worked
+PLAYER        Ardre
+CURRENT QUEST ProjectVerse 3D
+PLAYSTYLE     backend-heavy / visual experiments / systems
+STATUS        probably refactoring something that already worked
+TRAIT         simple ideas become systems
 ```
 
 <p align="center">
-  <b>NO BORING SOFTWARE.</b><br/>
-  <sub>take your code back.</sub>
+  <b>BUILD. BREAK. DEBUG. RESPAWN.</b>
 </p>
