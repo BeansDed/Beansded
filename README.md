@@ -139,12 +139,12 @@ Event-driven market-intelligence work around ingestion, signal processing, and d
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeansDed&show_icons=true&hide_border=true&bg_color=0B1016&title_color=58C7F3&icon_color=A371F7&text_color=DBE7F0&ring_color=58C7F3&include_all_commits=true" alt="BeansDed GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeansDed&layout=compact&hide_border=true&bg_color=0B1016&title_color=A371F7&text_color=DBE7F0&langs_count=8" alt="BeansDed top languages" />
+  <img width="49%" src="./assets/generated/profile-stats.svg" alt="BeansDed player stats" />
+  <img width="49%" src="./assets/generated/top-langs.svg" alt="BeansDed language loadout" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BeansDed&hide_border=true&background=0B1016&ring=58C7F3&fire=F2CC60&currStreakLabel=DBE7F0&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=263241" alt="BeansDed GitHub streak" />
+  <sub>Generated inside this repository and refreshed by GitHub Actions — no flaky external stats host.</sub>
 </p>
 
 ---
