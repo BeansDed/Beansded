@@ -62,92 +62,24 @@ POSTGRESQL
 
 ## 🕹️ PROJECT SELECT — COMPLETED BUILDS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img width="49%" src="./assets/projects/skin-sense.svg" alt="Skin Sense project card" />
+  <img width="49%" src="./assets/projects/lurk.svg" alt="LURK project card" />
+</p>
 
-### 🟢 Skin Sense
+<p align="center">
+  <a href="https://github.com/BeansDed/ArcaneConquestWebsite"><img width="49%" src="./assets/projects/arcane-conquest.svg" alt="Arcane Conquest project card" /></a>
+  <a href="https://github.com/BeansDed/LUMINA_SORT"><img width="49%" src="./assets/projects/lumina-sort.svg" alt="LUMINA_SORT project card" /></a>
+</p>
 
-**Mobile image analysis / verification platform**
+<p align="center">
+  <a href="https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine"><img width="49%" src="./assets/projects/company-identity.svg" alt="Company Identity project card" /></a>
+  <img width="49%" src="./assets/projects/reddit-to-shorts.svg" alt="Reddit to Shorts project card" />
+</p>
 
-Cross-platform image-analysis system with mobile result review, secure client–backend communication, and blockchain-backed tamper-evident records.
-
-`Python` `Hono` `Flutter` `Blockchain`
-
-<sub>Source is private — finished project.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 L.U.R.K.
-
-**3D horror roguelite**
-
-Unity horror project built around a **Scout → Escalate → Chaos** gameplay loop with AI-driven Specimen enemies, directional audio, and interaction systems.
-
-`Unity` `C#` `AI Systems` `3D Audio`
-
-<sub>One of my strongest game-development builds.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 [Arcane Conquest](https://github.com/BeansDed/ArcaneConquestWebsite)
-
-**2D pixel-art RPG**
-
-A hero-quest RPG with strategic combat, character progression, and inventory systems.
-
-`Unity` `C#` `Game Systems` `Pixel Art`
-
-<sub>Finished game project focused on progression and combat loops.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 [LUMINA_SORT](https://github.com/BeansDed/LUMINA_SORT)
-
-**Image processing / glitch engine**
-
-Deterministic pixel sorting with actual image data. No generative image model — just algorithms doing strange things to pixels.
-
-`Python` `Django` `NumPy` `PostgreSQL`
-
-<sub>Probably the most visually weird thing I've built.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 [Company Identity Resolution](https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine)
-
-**Backend / matching engine**
-
-Matches messy company records using blocking, weighted matching, confidence scoring, and golden-record merging.
-
-`TypeScript` `Docker` `Redis` `Prometheus`
-
-<sub>A real-world data problem with actual matching logic behind it.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 Reddit-to-Shorts
-
-**Automated media-processing pipeline**
-
-Turns Reddit posts into vertical short-form videos with scraping, narration, synced subtitles, gameplay backgrounds, and 9:16 video rendering.
-
-`Python` `Flask` `React` `Playwright` `FFmpeg`
-
-<sub>Source is private — finished automation project.</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>Public cards are clickable. Private-source builds are still shown as finished portfolio projects.</sub>
+</p>
 
 <details>
 <summary><b>🎒 Open side quests</b></summary>
