@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="#ffffff" opacity="0.14"/>
+    </pattern>
+    <filter id="rough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="1" seed="9" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="#090909"/>
+  <polygon points="0,0 760,0 620,360 0,360" fill="#e60012"/>
+  <polygon points="560,0 1200,0 1200,112 515,170" fill="#ffffff"/>
+  <polygon points="710,360 1200,360 1200,138 650,228" fill="#111111"/>
+  <rect width="1200" height="360" fill="url(#dots)"/>
+
+  <polygon points="44,44 420,18 390,64 18,88" fill="#000"/>
+  <text x="58" y="63" font-family="Impact, Arial Black, sans-serif" font-size="34" fill="#fff" transform="rotate(-3 58 63)">CALLING CARD // 001</text>
+
+  <text x="62" y="178" font-family="Impact, Arial Black, sans-serif" font-size="112" fill="#fff" stroke="#000" stroke-width="9" paint-order="stroke" filter="url(#rough)">BEANSARDRE</text>
+  <text x="74" y="236" font-family="Arial Black, Arial, sans-serif" font-size="29" fill="#000">FULL-STACK // SYSTEMS // AI // 3D</text>
+
+  <g transform="rotate(-4 0 0)">
+    <rect x="716" y="87" width="386" height="58" fill="#e60012" stroke="#000" stroke-width="8"/>
+    <text x="744" y="127" font-family="Impact, Arial Black, sans-serif" font-size="34" fill="#fff">NO BORING SOFTWARE.</text>
+  </g>
+
+  <polygon points="706,210 1150,174 1128,244 680,278" fill="#fff"/>
+  <text x="724" y="235" font-family="Arial Black, Arial, sans-serif" font-size="23" fill="#000" transform="rotate(-4 724 235)">BUILD IT. BREAK IT. MAKE IT BETTER.</text>
+
+  <rect x="70" y="286" width="470" height="42" fill="#000"/>
+  <text x="90" y="315" font-family="Arial Black, Arial, sans-serif" font-size="22" fill="#fff">STATUS: STILL SHIPPING.</text>
+
+  <path d="M0 332 L285 302 L430 342 L690 304 L920 338 L1200 304 L1200 360 L0 360 Z" fill="#000"/>
+</svg>
