@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="210" viewBox="0 0 1400 210">
+  <defs>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.6" fill="#fff" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1400" height="210" fill="#090909"/>
+  <rect width="1400" height="210" fill="url(#dots)"/>
+  <polygon points="0,0 405,0 350,210 0,210" fill="#ed0014"/>
+  <polygon points="315,0 1400,0 1400,42 282,74" fill="#fff"/>
+  <text x="34" y="48" font-family="Impact,Arial Black,sans-serif" font-size="33" fill="#000">PERSONALITY FLAGS</text>
+  <text x="36" y="96" font-family="Impact,Arial Black,sans-serif" font-size="30" fill="#fff">01</text>
+  <text x="92" y="96" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#fff">SIMPLE IDEAS SOMEHOW BECOME SYSTEMS.</text>
+  <text x="36" y="140" font-family="Impact,Arial Black,sans-serif" font-size="30" fill="#fff">02</text>
+  <text x="92" y="140" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#fff">YES, THIS IS MORE INFRASTRUCTURE THAN A NORMAL STUDENT PROJECT NEEDS.</text>
+  <text x="36" y="184" font-family="Impact,Arial Black,sans-serif" font-size="30" fill="#fff">03</text>
+  <text x="92" y="184" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#fff">“WHAT IF I ADD 3D?” IS A DANGEROUS THOUGHT.</text>
+  <polygon points="1135,110 1380,92 1350,164 1110,180" fill="#ed0014" stroke="#fff" stroke-width="3"/>
+  <text x="1150" y="139" font-family="Impact,Arial Black,sans-serif" font-size="20" fill="#fff" transform="rotate(-4 1150 139)">BEHAVIOR:</text>
+  <text x="1150" y="163" font-family="Arial Black,Arial,sans-serif" font-size="18" fill="#fff" transform="rotate(-4 1150 163)">OVERBUILD → LEARN → SHIP</text>
+</svg>
