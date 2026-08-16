@@ -12,48 +12,46 @@
 
 ---
 
-## ✦ CURRENT EXPEDITION
+## ✦ CURRENT FOCUS
 
 <p align="center">
-  <img src="./assets/v8/quest.svg" alt="ProjectVerse 3D current expedition" width="100%" />
+  Building full-stack systems, game-flavored interfaces, automation tools, and AI experiments while sharpening backend architecture, databases, and deployment.
 </p>
 
 ---
 
 ## ✦ MISSION ARCHIVE
 
-<p align="center">
-  <img width="49%" src="./assets/v8/projects/skin-sense.svg" alt="Skin Sense project card" />
-  <img width="49%" src="./assets/v8/projects/lurk.svg" alt="LURK project card" />
-</p>
+### Featured public work
 
-<p align="center">
-  <a href="https://github.com/BeansDed/ArcaneConquestWebsite"><img width="49%" src="./assets/v8/projects/arcane-conquest.svg" alt="Arcane Conquest project card" /></a>
-  <a href="https://github.com/BeansDed/LUMINA_SORT"><img width="49%" src="./assets/v8/projects/lumina-sort.svg" alt="LUMINA SORT project card" /></a>
-</p>
+**[Arcane Conquest Website](https://github.com/BeansDed/ArcaneConquestWebsite)** — fantasy RPG-style web experience with custom UI, character interactions, maps, and game-themed presentation.  
+`HTML` `CSS` `JavaScript`
 
-<p align="center">
-  <a href="https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine"><img width="49%" src="./assets/v8/projects/company-identity.svg" alt="Company Identity Resolution project card" /></a>
-  <img width="49%" src="./assets/v8/projects/reddit-to-shorts.svg" alt="Reddit to Shorts project card" />
-</p>
+**[LUMINA_SORT](https://github.com/BeansDed/LUMINA_SORT)** — algorithmic image-processing engine that uses sorting algorithms to create glitch-style visuals without generative AI.  
+`Python` `Django` `NumPy`
 
-<p align="center">
-  <sub>Public mission records are clickable. Private-source finished projects stay visible without dead links.</sub>
-</p>
+**[High-Scale Company Identity Resolution Engine](https://github.com/BeansDed/High-Scale-Company-Identity-Resolution-Engine)** — TypeScript project exploring company identity matching and resolution at scale.  
+`TypeScript`
+
+**[SkillForge](https://github.com/BeansDed/SkillForge)** — gamified learning platform with authentication, progression, server actions, and PostgreSQL-backed data.  
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+**[Irminsul / Hoyoverse Lore](https://github.com/BeansDed/Hoyoverse-Lore)** — AI/retrieval experiment for exploring large connected game-lore universes.  
+`TypeScript` `AI / Retrieval`
+
+**[PetPal](https://github.com/BeansDed/PetPal)** — cross-platform pet-care project for reminders, records, and activity tracking.  
+`Kotlin`
 
 <details>
-<summary><b>✦ SIDE MISSIONS / MORE WORK</b></summary>
+<summary><b>✦ MORE WORK</b></summary>
 
 <br/>
 
-**[SkillForge](https://github.com/BeansDed/SkillForge)** — gamified learning platform with auth, progression, server actions, and PostgreSQL.  
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+**[Portfolio](https://github.com/BeansDed/Porfortlio)** — personal portfolio and project case studies.  
+`Web` `Frontend` `Project Showcase`
 
-**[Irminsul / Hoyoverse Lore](https://github.com/BeansDed/Hoyoverse-Lore)** — lore-search / retrieval experiment for large connected game universes.  
-`TypeScript` `AI / retrieval`
-
-**[Portfolio](https://github.com/BeansDed/Porfortlio)** — portfolio and project case studies.  
-`Next.js` `TypeScript`
+**[Weather App](https://github.com/BeansDed/Weather-app)** — minimal weather dashboard with city search and forecast features.  
+`JavaScript`
 
 </details>
 
