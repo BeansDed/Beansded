@@ -1,17 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180">
-  <rect width="520" height="180" rx="14" fill="#0B1120" stroke="#334366"/>
-  <path d="M0 0H166L142 26H0Z" fill="#1A1D3C"/>
-  <rect x="18" y="18" width="5" height="34" rx="2" fill="#A89BFF"/>
-  <text x="36" y="42" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#EAF2FF">CODE SIGNATURE</text>
-  <text x="36" y="70" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#7F90AF">public repositories // language mix</text>
-  <g font-family="Arial,Helvetica,sans-serif" font-size="13">
-    <circle cx="42" cy="104" r="5" fill="#6EE7FF"/><text x="55" y="109" fill="#EAF2FF">TypeScript</text>
-    <circle cx="160" cy="104" r="5" fill="#A89BFF"/><text x="173" y="109" fill="#EAF2FF">CSS</text>
-    <circle cx="255" cy="104" r="5" fill="#F5D58A"/><text x="268" y="109" fill="#EAF2FF">JavaScript</text>
-    <circle cx="382" cy="104" r="5" fill="#74E7B2"/><text x="395" y="109" fill="#EAF2FF">Python</text>
-    <circle cx="42" cy="140" r="5" fill="#D79C7D"/><text x="55" y="145" fill="#EAF2FF">Rust</text>
-    <circle cx="123" cy="140" r="5" fill="#BE91FF"/><text x="136" y="145" fill="#EAF2FF">Kotlin</text>
-    <circle cx="220" cy="140" r="5" fill="#67C8C3"/><text x="233" y="145" fill="#EAF2FF">Dart</text>
-    <circle cx="304" cy="140" r="5" fill="#F0B86A"/><text x="317" y="145" fill="#EAF2FF">Go / mixed</text>
-  </g>
-</svg>
+<rect width="520" height="180" rx="14" fill="#0B1120" stroke="#334366"/>
+<path d="M0 0H166L142 26H0Z" fill="#1A1D3C"/>
+<rect x="18" y="18" width="5" height="34" rx="2" fill="#A89BFF"/>
+<text x="36" y="42" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#EAF2FF">CODE SIGNATURE</text>
+<text x="36" y="70" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#7F90AF">public repositories // language mix</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12"><circle cx="42" cy="104" r="5" fill="#6EE7FF"/><text x="55" y="109" fill="#EAF2FF">TypeScript 27%</text><circle cx="158" cy="104" r="5" fill="#A89BFF"/><text x="171" y="109" fill="#EAF2FF">CSS 22%</text><circle cx="274" cy="104" r="5" fill="#F5D58A"/><text x="287" y="109" fill="#EAF2FF">JavaScript 21%</text><circle cx="390" cy="104" r="5" fill="#74E7B2"/><text x="403" y="109" fill="#EAF2FF">HTML 15%</text><circle cx="42" cy="140" r="5" fill="#D79C7D"/><text x="55" y="145" fill="#EAF2FF">Python 5%</text><circle cx="158" cy="140" r="5" fill="#BE91FF"/><text x="171" y="145" fill="#EAF2FF">Rust 4%</text><circle cx="274" cy="140" r="5" fill="#67C8C3"/><text x="287" y="145" fill="#EAF2FF">Kotlin 4%</text><circle cx="390" cy="140" r="5" fill="#F0B86A"/><text x="403" y="145" fill="#EAF2FF">Go 2%</text></g></svg>
